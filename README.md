@@ -34,7 +34,7 @@ It simplifies repetitive workflows with a **suite of utilities** for preparing o
 
 ## 📥 Installation  
 
-1. **Download** the latest release from the [📦 Releases page]([./releases](https://github.com/NE-NOORE-Maps/ne-noore-tool-blender-addon/releases/tag/v1.8.2)).  
+1. **Download** the latest release from the [📦 Releases page](https://github.com/NE-NOORE-Maps/ne-noore-tool-blender-addon/releases/tag/v1.8.2).  
 2. Open Blender → `Edit > Preferences`.  
 3. Go to the **Add-ons** tab.  
 4. Click **Install...** and select `ne_noore_tool.zip`.  
@@ -59,6 +59,6 @@ It simplifies repetitive workflows with a **suite of utilities** for preparing o
 
 ## 📜 License  
 
-This project is licensed under the **MIT License** – see [LICENSE.md]([./LICENSE.md](https://github.com/NE-NOORE-Maps/ne-noore-tool-blender-addon/blob/main/LICENSE)) for details.  
+This project is licensed under the **MIT License** – see [LICENSE.md](https://github.com/NE-NOORE-Maps/ne-noore-tool-blender-addon/blob/main/LICENSE) for details.  
 
 ---
