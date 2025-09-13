@@ -1,4 +1,4 @@
-# 🎮 NE-NOORE Tool – A Blender Add-on for Game Development  
+# NE-NOORE Tool – A Blender Add-on for Game Development  
 
 The **NE-NOORE Tool** is a powerful **Blender add-on** designed to **streamline common tasks in game asset creation and world-building**.  
 It simplifies repetitive workflows with a **suite of utilities** for preparing objects, managing materials, and handling **game-specific data formats** such as **YMAPs** and **portals**.  
