@@ -3,6 +3,8 @@
 The **NE-NOORE Tool** is a powerful **Blender add-on** designed to **streamline common tasks in game asset creation and world-building**.  
 It simplifies repetitive workflows with a **suite of utilities** for preparing objects, managing materials, and handling **game-specific data formats** such as **YMAPs** and **portals**.  
 ---
+[![Watch the video](https://img.youtube.com/vi/1vLDVZq74fI/hqdefault.jpg)](https://youtu.be/1vLDVZq74fI)
+
 
 ## ✨ Features  
 
